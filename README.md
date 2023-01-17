@@ -238,7 +238,7 @@ apt remove -y caddy
 # 带参数执行
 如果你已经很熟悉了, 安装过程中的参数都确认没问题. 可以带参数使用本脚本, 跳过脚本中的各种校验.
 ```
-bash <(curl -L https://github.com/crazypeace/v2ray_wss/raw/main/install.sh) <domain> [netstack] [UUID] [path]
+bash <(curl -L https://github.com/a1092595196/v2ray_wss/raw/main/install.sh) <domain> [netstack] [UUID] [path]
 ```
 其中
 
@@ -252,12 +252,12 @@ bash <(curl -L https://github.com/crazypeace/v2ray_wss/raw/main/install.sh) <dom
 
 例如
 ```
-bash <(curl -L https://github.com/crazypeace/v2ray_wss/raw/main/install.sh) abc.mydomain.com
-bash <(curl -L https://github.com/crazypeace/v2ray_wss/raw/main/install.sh) abccba.ipv6d.my.id 6
-bash <(curl -L https://github.com/crazypeace/v2ray_wss/raw/main/install.sh) abccba.ipv6d.my.id 6 486572e1-11d5-4e93-a41d-d4b9775870bd
-bash <(curl -L https://github.com/crazypeace/v2ray_wss/raw/main/install.sh) abccba.ipv6d.my.id 6 486572e1-11d5-4e93-a41d-d4b9775870bd somepath
+bash <(curl -L https://github.com/a1092595196/v2ray_wss/raw/main/install.sh) abc.mydomain.com
+bash <(curl -L https://github.com/a1092595196/v2ray_wss/raw/main/install.sh) abccba.ipv6d.my.id 6
+bash <(curl -L https://github.com/a1092595196/v2ray_wss/raw/main/install.sh) abccba.ipv6d.my.id 6 486572e1-11d5-4e93-a41d-d4b9775870bd
+bash <(curl -L https://github.com/a1092595196/v2ray_wss/raw/main/install.sh) abccba.ipv6d.my.id 6 486572e1-11d5-4e93-a41d-d4b9775870bd somepath
 ```
 
 ## 用你的STAR告诉我这个Repo对你有用 Welcome STARs! :)
 
-[![Stargazers over time](https://starchart.cc/crazypeace/v2ray_wss.svg)](https://starchart.cc/crazypeace/v2ray_wss)
+[![Stargazers over time](https://starchart.cc/a1092595196/v2ray_wss.svg)](https://starchart.cc/crazypeace/v2ray_wss)
