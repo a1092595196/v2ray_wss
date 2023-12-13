@@ -177,7 +177,7 @@ File '/usr/share/keyrings/caddy-stable-archive-keyring.gpg' exists. Overwrite? (
 ```
 你的域名     # 改这里
 {
-    tls Y3JhenlwZWFjZQ@gmail.com
+    tls XXXXXXXXXXXX@gmail.com #修改邮箱
     encode gzip
 
     handle_path /分流path {     # 改这里
